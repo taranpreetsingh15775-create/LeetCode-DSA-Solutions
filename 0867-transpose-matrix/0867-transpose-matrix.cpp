@@ -7,8 +7,8 @@ public:
         
         vector<vector<int>> matrix2(C, vector<int>(R));
 
-        for(int i=0;i<matrix.size();i++){
-            for(int j=0;j<matrix[i].size();j++){
+        for(int i=0;i<R;i++){
+            for(int j=0;j<C;j++){
                 matrix2[j][i]=matrix[i][j];
             }
         }return matrix2;
