@@ -14,7 +14,7 @@ int s_space=0;
     bool addCar(int carType) {
         int x=carType;
         if(x==1){
-            if(b_space!=0){
+            if(b_space>0){
                 b_space--;
                 return true;
                 
@@ -35,9 +35,7 @@ int s_space=0;
             }else{
                 return false;
             }
-        }else{
-            return false;
-        }
+        }return false;
     }
 };
 
