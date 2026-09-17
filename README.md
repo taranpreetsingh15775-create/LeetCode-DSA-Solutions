@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0867-transpose-matrix](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1672-richest-customer-wealth](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -29,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
@@ -42,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
