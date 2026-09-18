@@ -15,7 +15,7 @@ public:
             }
             if(l2 > l1){
                 total += (l2 - l1);
-                l1 = prices[i ];
+                l1 = l2;
                 
             }
         }
