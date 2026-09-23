@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0238-product-of-array-except-self](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0867-transpose-matrix](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0867-transpose-matrix) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
