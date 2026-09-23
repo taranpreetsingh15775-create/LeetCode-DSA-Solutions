@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0867-transpose-matrix](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0867-transpose-matrix) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0905-sort-array-by-parity) |
