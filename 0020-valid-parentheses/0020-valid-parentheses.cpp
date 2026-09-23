@@ -4,9 +4,8 @@ public:
         stack<int> st;
 
         int x=s.size();
-        int n=0;
         
-        if(s[n]== ')' || s[n]=='}' || s[n]==']' )
+        if(s[0]== ')' || s[0]=='}' || s[0]==']' )
         return false;
 
         for(int i=0;i<x;i++){
