@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0867-transpose-matrix](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1672-richest-customer-wealth](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
