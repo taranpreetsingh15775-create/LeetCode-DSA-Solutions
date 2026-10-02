@@ -31,8 +31,7 @@ public:
                     return false;
                 }   
             }
-            else if(s[i]== ')' || s[i]=='}' || s[i]==']' )
-            return false;
+
 
         }
         if(st.empty()){
