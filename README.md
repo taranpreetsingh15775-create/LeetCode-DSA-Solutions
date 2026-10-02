@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0739-daily-temperatures) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
