@@ -11,12 +11,11 @@ public:
             }
         }
 
-        int x=0;
+
         string yo="";
         while(!s1.empty()){
             yo += s1.top();
             s1.pop();
-            x++;
         }return yo;
 
 
