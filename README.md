@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1603-design-parking-system) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0509-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -146,11 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0509-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0342-power-of-four) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
