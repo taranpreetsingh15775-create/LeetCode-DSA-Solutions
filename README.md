@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0509-fibonacci-number) |
 ## Greedy
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0326-power-of-three) |
@@ -158,5 +160,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
