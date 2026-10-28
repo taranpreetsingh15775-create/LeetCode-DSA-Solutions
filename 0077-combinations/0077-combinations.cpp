@@ -17,7 +17,7 @@ public:
 
         for(int i=c;i<=n;i++){
             v1.push_back(i);
-            solve(v,v1,n,k,c=i+1);
+            solve(v,v1,n,k,i+1);
             v1.pop_back();
         }
 
