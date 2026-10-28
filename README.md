@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
