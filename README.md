@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1672-richest-customer-wealth](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1672-richest-customer-wealth) |
+| [3483-unique-3-digit-even-numbers](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0077-combinations) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
