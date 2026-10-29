@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0079-word-search) |
 | [0867-transpose-matrix](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0079-word-search) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0079-word-search) |
 ## Enumeration
 |  |
 | ------- |
@@ -181,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
