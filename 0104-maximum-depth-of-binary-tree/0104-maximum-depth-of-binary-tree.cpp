@@ -12,7 +12,7 @@
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
- vector<vector<int>> ans;
+        int ans=0;
 
         if(root == NULL) {
             return 0;
@@ -25,14 +25,10 @@ public:
 
             int size = q.size();
 
-            vector<int> level;
-
             for(int i = 0; i < size; i++) {
 
                 TreeNode* node = q.front();
                 q.pop();
-
-                level.push_back(node->val);
 
                 if(node->left!=NULL){
                     q.push(node->left);
@@ -43,10 +39,10 @@ public:
 
             }
 
-            ans.push_back(level);
+            ans++;
         }
 
-        return ans.size();
+        return ans;
     }
 
 
