@@ -16,27 +16,10 @@ public:
             return false;
         }
 
-        return isSameTree(root->left,root->right);
-
-        // TreeNode* p=root->left;
-        // TreeNode* q=root->right;
-
-        // if(p==NULL && q==NULL){
-        //     return true;
-        // }
-
-        // if(p==NULL||q==NULL){
-        //     return false;
-        // }
-
-        // if(p->val!=q->val){
-        //     return false;
-        // }else{
-        //     return isSameTree(p,q);
-        // }
+        return isMirror(root->left,root->right);
     }
 
-    bool isSameTree(TreeNode* p,TreeNode * q){
+    bool isMirror(TreeNode* p,TreeNode * q){
         if(p==NULL && q==NULL){
             return true;
         }
@@ -49,6 +32,6 @@ public:
             return false;
         }
 
-        return isSameTree(p->left,q->right) && isSameTree(p->right,q->left);
+        return isMirror(p->left,q->right) && isMirror(p->right,q->left);
     }
 };
