@@ -16,22 +16,24 @@ public:
             return false;
         }
 
-        TreeNode* p=root->left;
-        TreeNode* q=root->right;
+        return isSameTree(root->left,root->right);
 
-        if(p==NULL && q==NULL){
-            return true;
-        }
+        // TreeNode* p=root->left;
+        // TreeNode* q=root->right;
 
-        if(p==NULL||q==NULL){
-            return false;
-        }
+        // if(p==NULL && q==NULL){
+        //     return true;
+        // }
 
-        if(p->val!=q->val){
-            return false;
-        }else{
-            return isSameTree(p,q);
-        }
+        // if(p==NULL||q==NULL){
+        //     return false;
+        // }
+
+        // if(p->val!=q->val){
+        //     return false;
+        // }else{
+        //     return isSameTree(p,q);
+        // }
     }
 
     bool isSameTree(TreeNode* p,TreeNode * q){
