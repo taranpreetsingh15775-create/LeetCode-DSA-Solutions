@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0079-word-search) |
+| [0171-excel-sheet-column-number](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0342-power-of-four) |
