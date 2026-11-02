@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [1603-design-parking-system](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1603-design-parking-system) |
 ## Array
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -249,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0226-invert-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
