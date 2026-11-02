@@ -27,12 +27,12 @@ public:
         if(sum==targetSum && root->left==NULL && root->right==NULL){
             return true;
         }
-        bool r=solve(root->left,targetSum,sum);
-        bool l=solve(root->right,targetSum,sum);
+        bool l=solve(root->left,targetSum,sum);
+        bool r=solve(root->right,targetSum,sum);
 
         sum-=root->val;
 
-        return r||l;
+        return l||r;
         
     }
 };
