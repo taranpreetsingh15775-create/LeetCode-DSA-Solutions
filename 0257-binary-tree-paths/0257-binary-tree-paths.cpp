@@ -20,7 +20,6 @@ public:
 
     void solve(TreeNode* root,vector<string> &v1,string temp){
         if(root==NULL){
-            
             return;
         }
         if(!temp.empty()){
