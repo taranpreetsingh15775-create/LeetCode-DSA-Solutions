@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0257-binary-tree-paths](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0257-binary-tree-paths) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0257-binary-tree-paths) |
 ## Enumeration
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
