@@ -6,15 +6,9 @@ public:
     }
 
     int solve(int n,vector<int> &ans){
-        if(n==3){
-            return 3;
-        }
-        else if(n==1){
-            return 1;
-        }
-        else if(n==2){
-            return 2;
-        }else{
+        if(n<=2){
+            return n;
+}       else{
             if(ans[n]!=-1){
                 return ans[n];
             }else{
