@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Tree
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Lifting
 |  |
 | ------- |
