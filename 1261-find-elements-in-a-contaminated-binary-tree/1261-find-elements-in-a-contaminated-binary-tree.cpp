@@ -24,7 +24,7 @@ private:
 public:
     FindElements(TreeNode* root) {
         treeRoot = root;
-        recoverTree(treeRoot, 0);
+        recoverTree(root, 0);
     }
     
     bool find(int target) {
