@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1603-design-parking-system](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [3483-unique-3-digit-even-numbers](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -321,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Divide and Conquer
