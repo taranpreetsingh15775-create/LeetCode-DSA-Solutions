@@ -24,6 +24,7 @@ public:
         }
         else{
             if(root->left==NULL && root->right==NULL){
+                delete root;
                 return NULL;
             }
             else if(root->left==NULL){
@@ -44,7 +45,7 @@ public:
         return root;
         
     }
-
+    // to find min we go right once then go lefft till last element to get min
     TreeNode* findMin(TreeNode* root){
         if(root->left==NULL){
             return root;
