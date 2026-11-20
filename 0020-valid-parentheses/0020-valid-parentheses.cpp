@@ -5,8 +5,8 @@ public:
 
         int x=s.size();
         
-        if(s[0]== ')' || s[0]=='}' || s[0]==']' )
-        return false;
+        // if(s[0]== ')' || s[0]=='}' || s[0]==']' )
+        // return false;
 
         for(int i=0;i<x;i++){
             if( s[i]== '(' || s[i]=='[' || s[i]=='{' ){
