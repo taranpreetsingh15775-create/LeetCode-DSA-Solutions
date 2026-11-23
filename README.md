@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1603-design-parking-system) |
+| [1929-concatenation-of-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1929-concatenation-of-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1929-concatenation-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
