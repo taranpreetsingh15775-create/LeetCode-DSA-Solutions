@@ -6,7 +6,8 @@ public:
         sum += mat[i][i];
         sum += mat[i][n - 1 - i];
     }
-    if (n % 2) sum -= mat[n / 2][n / 2];
+    if (n % 2) 
+    sum -= mat[n / 2][n / 2];
     return sum;
 }
 };
