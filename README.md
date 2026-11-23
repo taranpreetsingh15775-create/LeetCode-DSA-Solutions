@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0257-binary-tree-paths) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
