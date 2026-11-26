@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0695-max-area-of-island](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0695-max-area-of-island) |
 | [0938-range-sum-of-bst](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0695-max-area-of-island) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
