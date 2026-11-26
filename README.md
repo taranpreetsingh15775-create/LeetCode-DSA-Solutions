@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1929-concatenation-of-array) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1672-richest-customer-wealth) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
