@@ -5,7 +5,10 @@ public:
         int sum=0;
         for(int i=0;i<grid.size();i++){
             for(int j=0;j<grid[0].size();j++){
-                cou(i,j,grid,sum);
+                if(grid[i][j]>0){
+                    cou(i,j,grid,sum);
+                }
+
                 if(sum>maxsum){
                     maxsum=sum;
                 }sum=0;
