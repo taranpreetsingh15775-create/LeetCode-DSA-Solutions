@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0832-flipping-an-image](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0257-binary-tree-paths) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/taranpreetsingh15775-create/LeetCode-DSA-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
